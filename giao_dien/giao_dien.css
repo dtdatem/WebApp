@@ -1,0 +1,41 @@
+a
+{
+	text-decoration: none;
+}
+
+div.menu_ngang a 
+{
+	color:#bfbfbf;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 8px;
+	text-decoration: none;
+	font-size:20px;
+	border-radius: 25px;
+}
+div.menu_ngang a:hover
+{
+	color:#404040
+}
+div.menu_doc a 
+{
+	color:#0d0d0d;
+	text-decoration: none;
+	display:block;
+}
+div.menu_doc a:hover
+{
+	color:#b3b3b3
+}
+div.phan_trang a 
+{
+	font-size:36px;
+	margin-left:5px;
+	margin-right:5px;
+	text-decoration: none;
+	color:#595959;
+}
+div.phan_trang a:hover 
+{
+	color:#e6f2ff
+}
